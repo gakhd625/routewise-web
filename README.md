@@ -1,73 +1,95 @@
-# Welcome to your Lovable project
+# 🚍 e-PARA: Smarter Commutes in the Philippines
 
-## Project info
+**e-PARA** is a modern digital solution designed to enhance the commuting experience in the Philippines. It addresses common public transportation pain points such as:
 
-**URL**: https://lovable.dev/projects/b102caad-1ca8-4b90-a36a-154b96197dd7
+- ⏱️ Uncertainty about waiting times  
+- 🗺️ Route availability  
+- 🚦 Traffic conditions  
 
-## How can I edit this code?
+Focusing primarily on **jeepneys** and **buses**, e-PARA aims to expand to other modes of transport, offering a more **efficient**, **accessible**, and **affordable** way to navigate the city's busy streets.
 
-There are several ways of editing your application.
+This app serves both **commuters and drivers**, leveraging technology to optimize routes, reduce waiting times, and improve overall travel convenience.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b102caad-1ca8-4b90-a36a-154b96197dd7) and start prompting.
+## 🚀 Features
 
-Changes made via Lovable will be committed automatically to this repo.
+### ✅ Standard Features
 
-**Use your preferred IDE**
+- **Real-Time Tracking**  
+  Track the location of approaching jeepneys and buses in real time.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **Route Visibility**  
+  View all available jeepney and bus routes at a glance.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- **Traffic Condition Updates**  
+  Receive live traffic alerts to avoid congested areas.
 
-Follow these steps:
+- **Distance Information**  
+  See how far away the next vehicle is.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- **Passenger Rating System**  
+  Rate rides based on comfort, punctuality, and service quality.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+- **Weather Updates**  
+  Stay informed about weather conditions during your commute.
 
-# Step 3: Install the necessary dependencies.
-npm i
+- **Online Payment Integration**  
+  Pay fares securely via the app.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+### 🌟 Premium Features (Subscription-Based)
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- **Seat Availability**  
+  Know if seats are available on approaching vehicles.
 
-**Use GitHub Codespaces**
+- **Advanced Route Planning**  
+  Get the most efficient route based on live traffic and stop data.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- **Precise Time Estimates**  
+  Accurate ETAs for pickups and travel duration.
 
-## What technologies are used for this project?
+- **Ad-Free Experience**  
+  Enjoy a seamless user interface without interruptions.
 
-This project is built with:
+- **Detailed Traffic Insights**  
+  Access comprehensive traffic data for smarter route decisions.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## 📱 Future Plans
 
-Simply open [Lovable](https://lovable.dev/projects/b102caad-1ca8-4b90-a36a-154b96197dd7) and click on Share -> Publish.
+- 🚖 Integration with taxis and ride-sharing services  
+- 📍 AR-based station locators  
+- 🔔 Smart notifications for upcoming stops and traffic alerts  
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+## 🛠️ Tech Stack
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+- **Frontend**: React / Next.js  
+- **Backend**: Node.js / Express / Firebase  
+- **Maps & Data**: Google Maps API, OpenStreetMap  
+- **Payments**: GCash / PayMaya Integration  
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
+
+## 👥 Contributors
+
+- [Your Name Here](https://github.com/yourusername)
+- _Add your teammates here_
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Support
+
+If you like this project, give it a ⭐ on GitHub!  
+For feedback or suggestions, feel free to open an [issue](https://github.com/yourusername/e-para/issues).
+
