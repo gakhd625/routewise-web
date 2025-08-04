@@ -3,7 +3,7 @@
 **e-PARA** is a modern digital solution designed to enhance the commuting experience in the Philippines. It addresses common public transportation pain points such as:
 
 -  Uncertainty about waiting times  
-- 🗺 Route availability  
+-  Route availability  
 -  Traffic conditions  
 
 Focusing primarily on **jeepneys** and **buses**, e-PARA aims to expand to other modes of transport, offering a more **efficient**, **accessible**, and **affordable** way to navigate the city's busy streets.
