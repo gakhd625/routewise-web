@@ -2,9 +2,9 @@
 
 **e-PARA** is a modern digital solution designed to enhance the commuting experience in the Philippines. It addresses common public transportation pain points such as:
 
-- ⏱️ Uncertainty about waiting times  
-- 🗺️ Route availability  
-- 🚦 Traffic conditions  
+-  Uncertainty about waiting times  
+- 🗺 Route availability  
+-  Traffic conditions  
 
 Focusing primarily on **jeepneys** and **buses**, e-PARA aims to expand to other modes of transport, offering a more **efficient**, **accessible**, and **affordable** way to navigate the city's busy streets.
 
@@ -12,9 +12,9 @@ This app serves both **commuters and drivers**, leveraging technology to optimiz
 
 ---
 
-## 🚀 Features
+##  Features
 
-### ✅ Standard Features
+### Standard Features
 
 - **Real-Time Tracking**  
   Track the location of approaching jeepneys and buses in real time.
@@ -39,7 +39,7 @@ This app serves both **commuters and drivers**, leveraging technology to optimiz
 
 ---
 
-### 🌟 Premium Features (Subscription-Based)
+###  Premium Features (Subscription-Based)
 
 - **Seat Availability**  
   Know if seats are available on approaching vehicles.
@@ -58,38 +58,23 @@ This app serves both **commuters and drivers**, leveraging technology to optimiz
 
 ---
 
-## 📱 Future Plans
-
-- 🚖 Integration with taxis and ride-sharing services  
-- 📍 AR-based station locators  
-- 🔔 Smart notifications for upcoming stops and traffic alerts  
-
----
 
 ## 🛠️ Tech Stack
 
 - **Frontend**: React / Next.js  
 - **Backend**: Node.js / Express / Firebase  
-- **Maps & Data**: Google Maps API, OpenStreetMap  
+- **Maps & Data**: Google Maps API, OpenStreetMap or Mapbox API
 - **Payments**: GCash / PayMaya Integration  
 
 ---
 
 ## 👥 Contributors
-
-- [Your Name Here](https://github.com/yourusername)
-- _Add your teammates here_
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
+- Mikaela Molina 
+- Rossangelie Mae(Research and Documentation)
+- Gerlie Ann Katherine Daga-as
 
 ---
 
-## 🙌 Support
+---
 
-If you like this project, give it a ⭐ on GitHub!  
-For feedback or suggestions, feel free to open an [issue](https://github.com/yourusername/e-para/issues).
 
