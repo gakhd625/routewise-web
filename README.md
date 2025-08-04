@@ -1,4 +1,4 @@
-# 🚍 e-PARA: Smarter Commutes in the Philippines
+# 🚍 e-PARA: Enhanced Public Accessible Rides App
 
 **e-PARA** is a modern digital solution designed to enhance the commuting experience in the Philippines. It addresses common public transportation pain points such as:
 
