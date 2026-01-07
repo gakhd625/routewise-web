@@ -29,7 +29,9 @@ const HeroSection = () => {
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
               <Button variant="hero" size="lg" className="group">
                 <Download className="mr-2 group-hover:animate-bounce" />
+                <a href="https://drive.google.com/drive/u/1/folders/121i3C9fozHE5-JV9R5sQaGU2QIQLzRqU" target="_blank" rel="noopener noreferrer">
                 Download the App
+                </a>
               </Button>
               
               <Button variant="outline" size="lg" className="group">
@@ -38,7 +40,7 @@ const HeroSection = () => {
               </Button>
             </div>
             
-            <div className="flex items-center gap-8 justify-center lg:justify-start text-sm text-muted-foreground">
+            {/* <div className="flex items-center gap-8 justify-center lg:justify-start text-sm text-muted-foreground">
               <div className="flex items-center gap-2">
                 <div className="w-2 h-2 bg-primary rounded-full animate-pulse"></div>
                 <span>Live tracking active</span>
@@ -47,7 +49,7 @@ const HeroSection = () => {
                 <div className="w-2 h-2 bg-secondary rounded-full"></div>
                 <span>50k+ daily users</span>
               </div>
-            </div>
+            </div> */}
           </div>
           
           {/* Right mockup */}

@@ -48,7 +48,7 @@ const Footer = () => {
                        className="w-full h-full object-cover"
                        />
                    </div>
-                        <span className="text-2xl font-bold text-foreground">ePARA</span>
+                        <span className="text-2xl font-bold text-foreground">RouteWise</span>
               </Link>
             
             <p className="text-muted-foreground max-w-md leading-relaxed">
@@ -113,7 +113,7 @@ const Footer = () => {
         {/* Bottom section */}
         <div className="pt-8 border-t border-border/50 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-muted-foreground">
-            © 2025 ePARA. All rights reserved.
+            © 2025 RouteWise. All rights reserved.
           </p>
           
           <div className="flex items-center gap-6 text-sm text-muted-foreground">

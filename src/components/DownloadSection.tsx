@@ -23,7 +23,7 @@ const DownloadSection = () => {
           
     
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 py-8">
-            <div className="space-y-2">
+            {/* <div className="space-y-2">
               <div className="text-3xl lg:text-4xl font-bold text-primary">50K+</div>
               <div className="text-sm text-muted-foreground">Active Users</div>
             </div>
@@ -33,19 +33,19 @@ const DownloadSection = () => {
                 <Star className="w-4 h-4 fill-current" />
                 App Rating
               </div>
-            </div>
-            <div className="space-y-2">
+            </div> */}
+            {/* <div className="space-y-2">
               <div className="text-3xl lg:text-4xl font-bold text-primary">100+</div>
               <div className="text-sm text-muted-foreground">Cities Covered</div>
-            </div>
-            <div className="space-y-2">
+            </div> */}
+            {/* <div className="space-y-2">
               <div className="text-3xl lg:text-4xl font-bold text-secondary">24/7</div>
               <div className="text-sm text-muted-foreground">Live Tracking</div>
-            </div>
+            </div> */}
           </div>
           
 
-          <div className="space-y-8">
+          {/* <div className="space-y-8">
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <Button variant="hero" size="lg" className="group min-w-[200px]">
                 <Apple className="mr-3 w-6 h-6 group-hover:scale-110 transition-transform" />
@@ -67,16 +67,16 @@ const DownloadSection = () => {
             <p className="text-sm text-muted-foreground">
               
             </p>
-          </div>
+          </div> */}
           
- 
+{/*  
           <div className="pt-8 border-t border-border/50">
             <p className="text-sm text-muted-foreground mb-4">Trusted by commuters in</p>
             <div className="flex flex-wrap justify-center gap-8 text-muted-foreground/60">
               <span className="font-semibold">Cebu</span>
              
             </div>
-          </div>
+          </div> */}
           
         </div>
       </div>

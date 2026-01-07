@@ -47,7 +47,7 @@ const Navigation = () => {
                 className="w-full h-full object-cover"
               />
             </div>
-            <span className="text-2xl font-bold text-foreground">ePARA</span>
+            <span className="text-2xl font-bold text-foreground">RouteWise</span>
           </Link>
           
           {/* Desktop Menu */}
@@ -71,7 +71,9 @@ const Navigation = () => {
             </Button>
             <Button variant="default" size="sm" className="shadow-glow">
               <Download className="mr-2 w-4 h-4" />
+              <a href="https://drive.google.com/drive/u/1/folders/121i3C9fozHE5-JV9R5sQaGU2QIQLzRqU" target="_blank" rel="noopener noreferrer">
               Get App
+              </a>
             </Button>
           </div>
           
